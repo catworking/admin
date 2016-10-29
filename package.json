@@ -1,7 +1,7 @@
 {
-  "name": "element-starter",
+  "name": "catworking/admin",
   "description": "A Vue.js project",
-  "author": "yi.shyang@ele.me",
+  "author": "kent@solody.com",
   "private": true,
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --inline --hot",
